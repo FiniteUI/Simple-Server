@@ -1,5 +1,5 @@
 # Simple-Server, Spring 2018
-A project for my Network Theory class to create a simple server for (mock) communication between police vehicles and computers monitoring them.
+A project for my Spring 2018 Network Theory class to create a simple server for (mock) communication between police vehicles and computers monitoring them.
 
 The original detailed assignment documentation given to us by the professor is avilable in Assignment3Description.pdf
 
