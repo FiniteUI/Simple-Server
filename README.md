@@ -5,6 +5,8 @@ The original detailed assignment documentation given to us by the professor is a
 
 Two programs were given to us by the professor. gpsDummy.jar acts as the police vehicles sending GPS information in NMEA 0183 RMC format to the server on UDP port 9099. getVehs.jar acts as a monitor requesting the vehicle information from the server in XML format.
 
+There are several classes, but they were kept in one file to make turning the assignment in easier.
+
 The server program does the following:
 Has one thread listening for UDP messages from the vehicles on UDP port 9099 and dealing with them.
 Maintains a list of all the vehicles.
